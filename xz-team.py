@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+#Code by Ufttt123
+#remake by xz team 
 import random
 import socket
 import threading
